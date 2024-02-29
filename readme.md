@@ -1,1 +1,1 @@
-Repository for learning react and next.js
+Repository for learning react and next.js through the following learning path: https://nextjs.org/learn/react-foundations/
