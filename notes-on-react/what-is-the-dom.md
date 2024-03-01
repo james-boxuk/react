@@ -4,4 +4,4 @@ The DOM is an object representation of the HTML elements, it acts as a bridge be
 
 It has a tree-like structure with parent and child relationships.
 
-(! [/images/what-is-the-dom.png])
+(! what is the dom [https://github.com/james-boxuk/react/blob/main/images/what-is-the-dom.png])
